@@ -8,6 +8,8 @@ int *ptr1 = ptr;    // Initialize pointer using another pointer
 # How pointers are stored in memory
 int num  = 10;
 int *ptr = &num;
-# 
-
+####
+# Strcpy is the most commonly used function in strings. 
+# It is a standard library function that is declared in string.h header file 
+####
 
