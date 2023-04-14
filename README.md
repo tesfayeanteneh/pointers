@@ -1,5 +1,4 @@
-# pointers
-this is deals with one of the function of pointers in c programs 
+# pointers, this is deals with one of the function of pointers in c programs 
 # Examples to initialize pointer variable
 int num   = 10;
 int *ptr  = &num;   // Assign address of num to ptr
