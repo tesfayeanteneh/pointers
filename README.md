@@ -9,6 +9,6 @@ int *ptr1 = ptr;    // Initialize pointer using another pointer
 # How pointers are stored in memory
 int num  = 10;
 int *ptr = &num;
-![image](https://user-images.githubusercontent.com/126094073/232038243-9026c495-ed51-4b1b-8969-1f0f939234c2.png)
+# 
 
 
